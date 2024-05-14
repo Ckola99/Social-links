@@ -38,6 +38,7 @@ This is my personal solution to the [Social links challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
 
 ### What I learned
 
