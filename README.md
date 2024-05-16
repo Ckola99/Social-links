@@ -42,11 +42,41 @@ This is my personal solution to the [Social links challenge on Frontend Mentor](
 
 ### What I learned
 
-I did not necessarily learn much in this project but I reinforced my knowledge on css flexbox.
+I did not necessarily learn much in this project but I reinforced my knowledge on css flexbox and used how to use flex grow property in a practical manner.
+
+```css
+
+.links {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	font-size: 0.85rem;
+	font-weight: 600;
+	list-style-type: none;
+	padding: 0;
+}
+
+.links li {
+	margin: 5px;
+	flex: 1;
+}
+
+.links a {
+	display: block;
+	background-color: var(--grey);
+	border-radius: 0.5rem;
+	padding: 8px;
+	text-align: center;
+	color: var(--white);
+	text-decoration: none;
+}
+
+
+```
 
 ### Continued development
 
-The areas where I think I'd like to improve is my understanding of positioning of elements in css. I want to be able to make the right decisions when placing elements whether it be with CSS grid or flexbox.
+The areas where I think I'd like to improve is my understanding of positioning of elements in css. I want to be able to make the right decisions when placing elements whether it be with CSS grid or flexbox. My ability to apply pre-existing knowledge and using the docs appropriately.
 
 ### Useful resources
 
@@ -57,7 +87,7 @@ The areas where I think I'd like to improve is my understanding of positioning o
 ### Author
 
 - Website (yet to be created)
-- Frontend Mentor (https://www.frontendmentor.io)
+- Frontend Mentor [@CKola99](https://www.frontendmentor.io/profile/Ckola99)
 
 ### Acknowledgements
 
