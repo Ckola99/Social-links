@@ -42,7 +42,7 @@ This is my personal solution to the [Social links challenge on Frontend Mentor](
 
 ### What I learned
 
-I did not necessarily learn much in this project but I reinforced my knowledge on css flexbox and used how to use flex grow property in a practical manner.
+I did not necessarily learn much in this project but I reinforced my knowledge on css flexbox and how to use flex grow property in a practical manner.
 
 ```css
 
